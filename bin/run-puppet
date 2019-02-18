@@ -1,0 +1,4 @@
+#!/bin/bash
+
+puppet apply --modulepath /opt/aquamar/1.0/etc/puppet/modules /opt/aquamar/1.0/etc/puppet/code/site.pp
+
